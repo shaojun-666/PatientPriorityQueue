@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\Desktop\C++Project\数据结构\MajorHM_2_1_Heap\源.cpp(47,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\C++Project\数据结构\MajorHM_2_1_Heap\源.cpp(69,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\C++Project\数据结构\MajorHM_2_1_Heap\源.cpp(81,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\C++Project\数据结构\MajorHM_2_1_Heap\源.cpp(94,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MajorHM_2_1_Heap.vcxproj -> D:\Desktop\C++Project\数据结构\MajorHM_2_1_Heap\x64\Debug\MajorHM_2_1_Heap.exe
