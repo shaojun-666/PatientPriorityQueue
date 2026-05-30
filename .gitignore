@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.ipch
+*.pdb
+*.ilk
+*.exe
+*.obj
+*.tlog/
+*.lastbuildstate
+*.recipe
+*.log
+Browse.VC.db
+Solution.VC.db
+
+# Generated files
+*.vcxproj.filters
+DocumentLayout.json
+DocumentLayout.backup.json
